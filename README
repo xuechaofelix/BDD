@@ -1,0 +1,10 @@
+For use this library
+	1.copy all the head&source file to your project
+	2.Include bdd.h in your project.
+	3.Use the interface in class BDD.
+
+For test this library
+	1.Change the main.cpp in src/.
+	2.Run "make BDD" in root directory.
+	3.Run "./BDD".
+	4.Or you can clean this project by running "make clean".

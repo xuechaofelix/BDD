@@ -8,3 +8,4 @@ For test this library
 	2.Run "make BDD" in root directory.
 	3.Run "./BDD".
 	4.Or you can clean this project by running "make clean".
+	5.Then run "dot -Tpng eight_queens.dot result.png" to watch the result BDD.
